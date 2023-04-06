@@ -1,0 +1,30 @@
+.input {
+    background-color: #d1d1d1;
+    border: 1rem;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    width: 50%;
+}
+.input.input {
+    text-align: center;
+}
+
+
+.container {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.button {
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
